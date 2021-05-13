@@ -1,4 +1,4 @@
-export default class mobilenetv2LogodetSpotphish {
+export default class mobilenetSpotPhish {
     constructor() {
         this.label = [
 	    "Axis Bank",
@@ -331,8 +331,8 @@ export default class mobilenetv2LogodetSpotphish {
     }
 
 }
-mobilenetv2LogodetSpotphish.dependencies = [
+mobilenetSpotPhish.dependencies = [
     "https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@3.6.0/dist/tf.min.js",
 ]
-mobilenetv2LogodetSpotphish.model = ROOT_DIR + "/mobilenetv2LogodetSpotphish/model/model.json"
+mobilenetSpotPhish.model = ROOT_DIR + "/mobilenetSpotPhish/model/model.json"
 
